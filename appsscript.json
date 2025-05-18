@@ -1,0 +1,13 @@
+{
+  "timeZone": "America/Chicago",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "chat": {
+    "addToSpaceFallbackMessage": "Thanks for adding me to the space!",
+    "requestSyncTrigger": {
+      "enabled": true
+    }
+  }
+}
+
